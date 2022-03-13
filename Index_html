@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>  <head>
+  </head>
+  <body>
+    <table cellspacing='20'>
+      <tr>
+        <td><img src="javed.png" alt="Javed Profile Picture"></td>
+        <td><h1>Javed </h1>
+        <p><a href="https://www.linkedin.com/in/javed35/">My Linkedin Profile</a></p>
+        <p><em>Customer Service Professional</em></p>
+        <p>I am a Customer Service Professional. I like hiking, runing and biking</p></td>
+      </tr>
+    </table>
+
+
+<hr>
+<h3>Education and Skills</h3>
+<ul>
+  <li>Bachelors Degree</li>
+  <li>Microsft SQL Server</li>
+  <li>Google Data Analytics Certificate</li>
+</ul>
+<hr>
+<h3>Work Experience</h3>
+<table>
+  <tr>
+    <th>Dates</th>
+    <th>Work</th>
+  </tr>
+  <tr>
+    <td>2015-2017</td>
+    <td>Researcher at Dawn News</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Tour Guide at Scottsdale Community College</td>
+  </tr>
+</table>
+<hr>
+<h3>Skills</h3>
+<table cellspacing='10'>
+  <tr>
+          <td>Microsft SQL Server</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Web Development</td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Splunk</td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>Microsft Excel</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+      <a href="Hobbies.html">My Hobbies</a>
+      <p><a href="Contact.me">Contact Me</a></p>
+
+  </body>
+</html>
